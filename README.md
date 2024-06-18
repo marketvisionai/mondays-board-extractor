@@ -159,7 +159,7 @@ app.listen(3000, () => {
 
 ## Mitwirkende
 
-- Dein Name - [GitHub Profil](https://github.com/dein-profil)
+- marketvision GmbH - [GitHub Profil](https://github.com/marketvisionai)
 
 ## Lizenz
 
